@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="avtobus" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAgAAAAAAAEAAQAQAAAAAAAAAAAAIAIAAAAAA=</HashCode>
+      <FileName>avtobus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gruzi" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAiAAAAACAABABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Gruzik.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="samosval" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAgQAAAAAQAAABAAAAAAAAAAAAIAAAAAAAIA=</HashCode>
+      <FileName>samosval.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="samolet" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAIAAAAAAAAAAQAAAAAAAAAhAAAQAAAAgAAAA=</HashCode>
+      <FileName>samolet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tractor" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABRAAAAAgAAAAAAAAACACAAAAAAAAABAAAAAAIA=</HashCode>
+      <FileName>tractor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mashinki" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAgEEQBAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>dlya_vseh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transport" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAQAAAQAQAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Glavnyi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
