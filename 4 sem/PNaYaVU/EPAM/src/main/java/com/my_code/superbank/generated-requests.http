@@ -1,0 +1,22 @@
+###
+POST http://localhost:8080/add
+Content-Type: application/json
+
+{
+  "to": 1,
+  "amount": [100]
+}
+
+###
+GET http://localhost:8080/1
+
+###
+GET http://localhost:8080/2
+
+{
+  "from": 1,
+  "to": 2
+}
+
+###
+GET http://localhost:8080/divide/1
