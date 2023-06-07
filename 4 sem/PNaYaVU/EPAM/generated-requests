@@ -1,0 +1,14 @@
+###
+POST http://localhost:8080/add
+Content-Type: application/json
+{
+"to":2,
+"amount":100
+}
+
+
+###
+Post http://localhost:8080/transfer
+
+###
+GET http://localhost:8080/{{accountID}}
