@@ -1,0 +1,8 @@
+ECHO Hello World
+LIST
+INFO
+CD symlinks/lst
+LIST
+CD ..
+LIST
+QUIT
