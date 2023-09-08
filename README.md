@@ -8,9 +8,9 @@ RU:
   
 4 семестр:
 
-  АПК (Архитектура персональных компьютеров);
+  АПК (Архитектура персональных компьютеров)/(MS-DOS);
   
-  ОСиСП (Операционные системы и системное программирование);
+  ОСиСП (Операционные системы и системное программирование)/(C++);
   
   ОУИС && ОИнфБ (Основы управления интеллектуальной собственностью && Основы информационной безопасности);
   
@@ -20,11 +20,11 @@ RU:
   
 5 семестр:
 
-  ФПрогр (Функциональное программирование);
+  ФПрогр (Функциональное программирование)/(Scala);
 
   ЖЦРПО (Жизненный цикл разработки программного обеспечения);
 
-  ИиУВМ (Интерфейсы и устройства вычислительных машин);
+  ИиУВМ (Интерфейсы и устройства вычислительных машин)/(C++);
 
   КиДСВТ (Контроль и диагностика средств вычислительной техники);
 
@@ -44,9 +44,9 @@ EN:
   
 4 semester:
 
-  APK (Personal Computer Architecture);
+  APK (Personal Computer Architecture)/(MS-DOS);
   
-  OSiSP (Operating Systems and System Programming);
+  OSiSP (Operating Systems and System Programming)/(C++);
   
   OUIS &&O InfB (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
   
@@ -56,11 +56,11 @@ EN:
   
 Semester 5:
 
-  FProgram (Functional Programming);
+  FProgram (Functional Programming)/(Scala);
 
   GCRPO (Software Development Life Cycle);
 
-  IiUVM (Computer Interfaces and Devices);
+  IiUVM (Computer Interfaces and Devices)/(C++);
 
   KiDSVT (Control and Diagnostics of Computers);
 
