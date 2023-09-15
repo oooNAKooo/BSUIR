@@ -1,8 +1,7 @@
-//четные
 def substringFromSymbolsAtEvenPositions(str: String): String = 
 {
-  val result = new StringBuilder // объект
-  for (i <- str.indices if i % 2 == 1) 
+  val result = new StringBuilder
+  for (i <- str.indices if (i+1) % 2 == 0) // счет цифр строки, стоящих на четной позиции в этой строке
   {
     result.append(str(i))
   }
@@ -13,16 +12,12 @@ object Main22 {
 def main(args: Array[String]): Unit = {
    print("Enter the number: ")
    var numberString = ""
-   numberString = scala.io.StdIn.readLine() // ввод с консоли
+   numberString = scala.io.StdIn.readLine()
    var string_a = substringFromSymbolsAtEvenPositions(numberString)
    var sum = 0
-   string_a = substringFromSymbolsAtEvenPositions(numberString)
    for (digit <- string_a.toString) {
       sum += digit.asDigit
                              }
-
-// Print the sum
-
    println(sum)
-  }
+  } 
 }
