@@ -34,8 +34,6 @@ RU:
 
   СхемТ (Схемотехника);
 
-  СиФОВМ (Структурная и функциональная организация вычислительных машин).
-
 EN:
 
 3 semester:
@@ -69,5 +67,3 @@ Semester 5:
   PMS (Mobile Systems Programming);
 
   ShemT (Circuit Engineering);
-
-  SiFOVM (Structural and Functional Organization of Computing Machines).
