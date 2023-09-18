@@ -30,8 +30,6 @@ RU:
 
   ОКС (Основы компьтерных сетей);
 
-  ПМС (Программирование мобильных систем);
-
   СхемТ (Схемотехника);
 
 EN:
@@ -63,7 +61,5 @@ Semester 5:
   KiDSVT (Control and Diagnostics of Computers);
 
   OKS (Fundamentals of Computer Networks);
-
-  PMS (Mobile Systems Programming);
 
   ShemT (Circuit Engineering);
