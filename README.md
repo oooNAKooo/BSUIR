@@ -38,7 +38,7 @@
 
   [PNaYaVU](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU) (Programming in High-Level Languages)/(C++).
   
-## [4 semester:]((https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
+## [4 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
   [APK](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK) (Personal Computer Architecture)/(MS-DOS);
   
