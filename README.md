@@ -4,19 +4,19 @@
 
 ## [3 семестр](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
-  ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).
+  [ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU)
   
-## 4 семестр:
+## [4 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
-  АПК (Архитектура персональных компьютеров)/(MS-DOS);
+  [АПК (Архитектура персональных компьютеров)/(MS-DOS);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK)
   
-  ОСиСП (Операционные системы и системное программирование)/(C++);
+  [ОСиСП (Операционные системы и системное программирование)/(C++);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OSiSP)
   
-  ОУИС && ОИнфБ (Основы управления интеллектуальной собственностью && Основы информационной безопасности);
+  [ОУИС && ОИнфБ (Основы управления интеллектуальной собственностью && Основы информационной безопасности);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB)
   
-  ПНаЯВУ (Программирование на языках высоких уровнях)/(Java);
+  [ПНаЯВУ (Программирование на языках высоких уровнях)/(Java);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU)
   
-  СхемТ (Схемотехника).
+  [СхемТ (Схемотехника).](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT)
   
 ## 5 семестр:
 
