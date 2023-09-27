@@ -2,8 +2,7 @@
 
 RU:
 
-## 3 семестр:
-[Перейти в папку 3 семестра](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
+## [3 семестр](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
   ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).
   
