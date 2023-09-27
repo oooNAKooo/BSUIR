@@ -4,7 +4,7 @@
 
 ## [3 семестр](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
-- &ensp;[ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU)
+- &ensp;[ПНаЯВУ] (Программирование на языках высоких уровнях)/(C++).(https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU)
   
 ## [4 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
