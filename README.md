@@ -5,7 +5,7 @@
 ## [3 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
 - &ensp;[ПНаЯВУ](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU) (Программирование на языках высоких уровнях)/(C++).
-  
+##
 ## [4 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
 - &ensp;[АПК](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK) (Архитектура персональных компьютеров)/(MS-DOS);
@@ -17,7 +17,7 @@
 - &ensp;[ПНаЯВУ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU) (Программирование на языках высоких уровнях)/(Java);
   
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Схемотехника).
-  
+##
 ## [5 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
 
   [ФПрогр](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Функциональное программирование)/(Scala);
@@ -31,10 +31,8 @@
   [ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей);
 
   [СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника);
-
 ##
 ## EN:
-
 ## [3 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
   [PNaYaVU](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU) (Programming in High-Level Languages)/(C++).
