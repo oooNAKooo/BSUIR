@@ -1,12 +1,12 @@
 # BSUIR
 
-RU:
+## RU:
 
 ## [3 семестр](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
   ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).
   
-4 семестр:
+## 4 семестр:
 
   АПК (Архитектура персональных компьютеров)/(MS-DOS);
   
@@ -18,7 +18,7 @@ RU:
   
   СхемТ (Схемотехника).
   
-5 семестр:
+## 5 семестр:
 
   ФПрогр (Функциональное программирование)/(Scala);
 
@@ -32,13 +32,13 @@ RU:
 
   СхемТ (Схемотехника);
 
-EN:
+## EN:
 
-3 semester:
+## 3 semester:
 
   PNaYaVU (Programming in High-Level Languages)/(C++).
   
-4 semester:
+## 4 semester:
 
   APK (Personal Computer Architecture)/(MS-DOS);
   
@@ -50,7 +50,7 @@ EN:
   
   ShemT (Circuit Engineering).
   
-Semester 5:
+## Semester 5:
 
   FProgram (Functional Programming)/(Scala);
 
