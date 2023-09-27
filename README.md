@@ -67,6 +67,6 @@
 - &ensp;[OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks);
 
 - &ensp;[ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering).
-
+##
 
 
