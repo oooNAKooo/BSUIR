@@ -3,7 +3,7 @@
 RU:
 
 ## 3 семестр:
-<a href="[https://github.com/ваш-пользователь/ваш-репозиторий](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)">Перейти в репозиторий</a>
+[Перейти в папку 3 семестра](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
   ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).
   
