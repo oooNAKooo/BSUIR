@@ -2,7 +2,7 @@
 
 ## RU:
 
-## [3 семестр](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
+## [3 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
 - &ensp;[ПНаЯВУ](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU) (Программирование на языках высоких уровнях)/(C++).
   
@@ -18,51 +18,51 @@
   
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Схемотехника).
   
-## 5 семестр:
+## [5 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
 
-  ФПрогр (Функциональное программирование)/(Scala);
+  [ФПрогр](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Функциональное программирование)/(Scala);
 
-  ЖЦРПО (Жизненный цикл разработки программного обеспечения);
+  [ЖЦРПО](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/GCRPO) (Жизненный цикл разработки программного обеспечения);
 
-  ИиУВМ (Интерфейсы и устройства вычислительных машин)/(C++);
+  [ИиУВМ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/IiUVM) (Интерфейсы и устройства вычислительных машин)/(C++);
 
-  КиДСВТ (Контроль и диагностика средств вычислительной техники);
+  [КиДСВТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Контроль и диагностика средств вычислительной техники);
 
-  ОКС (Основы компьтерных сетей);
+  [ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей);
 
-  СхемТ (Схемотехника);
+  [СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника);
 
 ## EN:
 
-## 3 semester:
+## [3 semester:]()
 
-  PNaYaVU (Programming in High-Level Languages)/(C++).
+  [PNaYaVU]() (Programming in High-Level Languages)/(C++).
   
-## 4 semester:
+## [4 semester:]()
 
-  APK (Personal Computer Architecture)/(MS-DOS);
+  [APK]() (Personal Computer Architecture)/(MS-DOS);
   
-  OSiSP (Operating Systems and System Programming)/(C++);
+  [OSiSP]() (Operating Systems and System Programming)/(C++);
   
-  OUIS &&O InfB (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
+  [OUIS &&O InfB]() (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
   
-  PNaYaVU (Programming in High-Level Languages)/(Java);
+  [PNaYaVU]() (Programming in High-Level Languages)/(Java);
   
-  ShemT (Circuit Engineering).
+  [ShemT]() (Circuit Engineering).
   
-## Semester 5:
+## [Semester 5:]()
 
-  FProgram (Functional Programming)/(Scala);
+  [FProgram]() (Functional Programming)/(Scala);
 
-  GCRPO (Software Development Life Cycle);
+  [GCRPO]() (Software Development Life Cycle);
 
-  IiUVM (Computer Interfaces and Devices)/(C++);
+  [IiUVM]() (Computer Interfaces and Devices)/(C++);
 
-  KiDSVT (Control and Diagnostics of Computers);
+  [KiDSVT]() (Control and Diagnostics of Computers);
 
-  OKS (Fundamentals of Computer Networks);
+  [OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks);
 
-  ShemT (Circuit Engineering);м
+  [ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering);м
 
 
 
