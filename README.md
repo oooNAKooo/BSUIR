@@ -2,7 +2,9 @@
 
 RU:
 
-## 3 семестр:
+## 3 семестр: {#3 семестр:}
+<!-- Ссылка на репозиторий -->
+<a href="[https://github.com/ваш-пользователь/ваш-репозиторий](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)">Перейти в репозиторий</a>
 
   ПНаЯВУ (Программирование на языках высоких уровнях)/(C++).
   
@@ -62,9 +64,7 @@ Semester 5:
 
   OKS (Fundamentals of Computer Networks);
 
-## 3 семестр {#3 семестр}
-<!-- Ссылка на репозиторий -->
-<a href="[https://github.com/ваш-пользователь/ваш-репозиторий](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)">Перейти в репозиторий</a>
+  ShemT (Circuit Engineering);м
 
 
-  ShemT (Circuit Engineering);
+
