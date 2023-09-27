@@ -34,35 +34,35 @@
 
 ## EN:
 
-## [3 semester:]()
+## [3 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
 
-  [PNaYaVU]() (Programming in High-Level Languages)/(C++).
+  [PNaYaVU](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU) (Programming in High-Level Languages)/(C++).
   
-## [4 semester:]()
+## [4 semester:]((https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
-  [APK]() (Personal Computer Architecture)/(MS-DOS);
+  [APK](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK) (Personal Computer Architecture)/(MS-DOS);
   
-  [OSiSP]() (Operating Systems and System Programming)/(C++);
+  [OSiSP](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OSiSP) (Operating Systems and System Programming)/(C++);
   
-  [OUIS &&O InfB]() (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
+  [OUIS &&O InfB](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB) (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
   
-  [PNaYaVU]() (Programming in High-Level Languages)/(Java);
+  [PNaYaVU](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU) (Programming in High-Level Languages)/(Java);
   
-  [ShemT]() (Circuit Engineering).
+  [ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Circuit Engineering).
   
-## [Semester 5:]()
+## [Semester 5:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
 
-  [FProgram]() (Functional Programming)/(Scala);
+  [FProgram](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Functional Programming)/(Scala);
 
-  [GCRPO]() (Software Development Life Cycle);
+  [GCRPO](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/GCRPO) (Software Development Life Cycle);
 
-  [IiUVM]() (Computer Interfaces and Devices)/(C++);
+  [IiUVM](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/IiUVM) (Computer Interfaces and Devices)/(C++);
 
-  [KiDSVT]() (Control and Diagnostics of Computers);
+  [KiDSVT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Control and Diagnostics of Computers);
 
   [OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks);
 
-  [ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering);м
+  [ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering).
 
 
 
