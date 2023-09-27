@@ -8,15 +8,15 @@
   
 ## [4 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
 
-  [АПК (Архитектура персональных компьютеров)/(MS-DOS);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK)
+- &ensp;[АПК](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK) (Архитектура персональных компьютеров)/(MS-DOS);
   
-  [ОСиСП (Операционные системы и системное программирование)/(C++);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OSiSP)
+- &ensp;[ОСиСП](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OSiSP) (Операционные системы и системное программирование)/(C++);
   
-  [ОУИС && ОИнфБ (Основы управления интеллектуальной собственностью && Основы информационной безопасности);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB)
+- &ensp;[ОУИС && ОИнфБ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB) (Основы управления интеллектуальной собственностью && Основы информационной безопасности);
   
-  [ПНаЯВУ (Программирование на языках высоких уровнях)/(Java);](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU)
+- &ensp;[ПНаЯВУ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU) (Программирование на языках высоких уровнях)/(Java);
   
-  [СхемТ (Схемотехника).](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT)
+- &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Схемотехника).
   
 ## 5 семестр:
 
