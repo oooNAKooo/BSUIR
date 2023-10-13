@@ -2,7 +2,6 @@
 
 ## RU:
 
-##
 ## ЧИТАТЬ ФАЙЛЫ "some_informatiom.txt" ОБЯЗАТЕЛЬНО!!!
 
 
@@ -41,7 +40,6 @@
 ##
 ## EN:
 
-##
 ## READ THE FILES "some_informatiom.txt" MANDATORY!!!
 
 ## [3 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem)
