@@ -35,7 +35,7 @@
 
 - &ensp;[ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей);
 
-- &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника);
+- &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника).
 
 ##
 ## EN:
