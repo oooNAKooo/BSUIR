@@ -9,3 +9,15 @@
 - &ensp;[ПНаЯВУ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU) (Программирование на языках высоких уровнях)/(Java);
   
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Схемотехника).
+##
+## [4 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem)
+
+- &ensp;[APK](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/APK) (Personal Computer Architecture)/(MS-DOS);
+  
+- &ensp;[OSiSP](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OSiSP) (Operating Systems and System Programming)/(C++);
+  
+- &ensp;[OUIS &&O InfB](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB) (Fundamentals of Intellectual Property Management && Fundamentals of Information Security);
+  
+- &ensp;[PNaYaVU](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/PNaYaVU) (Programming in High-Level Languages)/(Java);
+  
+- &ensp;[ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/ShemT) (Circuit Engineering).
