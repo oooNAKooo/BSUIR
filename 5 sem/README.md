@@ -13,7 +13,7 @@
 
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника).
 ##
-## [Semester 5:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
+## [5 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
 
 - &ensp;[FProgram](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Functional Programming)/(Scala);
 
