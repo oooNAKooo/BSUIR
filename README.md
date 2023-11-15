@@ -27,8 +27,6 @@
 
 - &ensp;[ФПрогр](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Функциональное программирование)/(Scala);
 
-- &ensp;[ЖЦРПО](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/GCRPO) (Жизненный цикл разработки программного обеспечения);
-
 - &ensp;[ИиУВМ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/IiUVM) (Интерфейсы и устройства вычислительных машин)/(C++);
 
 - &ensp;[КиДСВТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Контроль и диагностика средств вычислительной техники);
@@ -63,8 +61,6 @@
 ## [Semester 5:](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem)
 
 - &ensp;[FProgram](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/FProgr) (Functional Programming)/(Scala);
-
-- &ensp;[GCRPO](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/GCRPO) (Software Development Life Cycle);
 
 - &ensp;[IiUVM](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/IiUVM) (Computer Interfaces and Devices)/(C++);
 
