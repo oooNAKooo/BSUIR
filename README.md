@@ -50,7 +50,7 @@
 
 - &ensp;[БД](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD) (База данных);
 
-- &ensp;[ССПОиРС](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Сетевое и системное программное обеспечение и распределение сетей);
+- &ensp;[ССПОиРС](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Сетевое и системное программное обеспечение и распределение сетей)/(Python);
 
 - &ensp;[ЖЦРПО](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO) (Жизненный цикл разработки программного обеспечения).
 
@@ -105,7 +105,7 @@
 
 - &ensp;[BD](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD) (Database);
 
-- &ensp;[SSPOiRS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Network and system software and network distribution);
+- &ensp;[SSPOiRS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Network and system software and network distribution)/(Python);
 
 - &ensp;[GCRPO](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO) (Software Development Life Cycle).
 ##
