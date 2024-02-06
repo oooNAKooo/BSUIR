@@ -1,6 +1,6 @@
 Список лабораторных работ по дисциплине "Основы информационной безопасности":
 
-[Лабораторня работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB/OInfB/lab_1). Оценка достоверности информации. Статус - присутствует.
+[Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB/OInfB/lab_1). Оценка достоверности информации. Статус - присутствует.
 
 [Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/4%20sem/OUIS_%26%26_OInfB/OInfB/lab_2). Патентные исследования. Статус - присутствует.
 
