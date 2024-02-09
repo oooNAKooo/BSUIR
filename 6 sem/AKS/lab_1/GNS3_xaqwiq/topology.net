@@ -1,0 +1,119 @@
+autostart = False
+version = 0.8.7
+[127.0.0.1:7202]
+    workingdir = C:\Users\1\AppData\Local\Temp
+    udp = 10201
+    [[1721]]
+        image = D:\AKS\IMAGE\GNS3\c1700-advipservicesk9-mz.124-15.T14.image
+        chassis = 1721
+    [[ROUTER R11]]
+        model = 1721
+        console = 2111
+        aux = 2511
+        cnfg = configs\R11.cfg
+        wic0/0 = WIC-1ENET
+        wic0/1 = WIC-1ENET
+        e0 = R12 e0
+        e1 = R13 e0
+        f0 = R5 e0
+        x = -98.0
+        y = -106.0
+        z = 1.0
+[127.0.0.1:7201]
+    workingdir = C:\Users\1\AppData\Local\Temp
+    udp = 10101
+    [[1710]]
+        image = D:\AKS\IMAGE\GNS3\c1700-advipservicesk9-mz.124-15.T14.image
+        chassis = 1710
+    [[1721]]
+        image = D:\AKS\IMAGE\GNS3\c1700-advipservicesk9-mz.124-15.T14.image
+        chassis = 1721
+    [[ROUTER R4]]
+        model = 1710
+        console = 2104
+        aux = 2504
+        cnfg = configs\R4.cfg
+        e0 = NIO_udp:30001:127.0.0.1:20001
+        f0 = R12 f0
+        x = 167.0
+        y = -61.0
+        z = 1.0
+    [[ROUTER R5]]
+        model = 1710
+        console = 2105
+        aux = 2505
+        cnfg = configs\R5.cfg
+        e0 = R11 f0
+        x = -182.0
+        y = -176.0
+        z = 1.0
+    [[ROUTER R7]]
+        model = 1710
+        console = 2107
+        aux = 2507
+        cnfg = configs\R7.cfg
+        e0 = R10 e0
+        f0 = R9 f0
+        x = -189.0
+        y = 216.0
+        z = 1.0
+    [[ROUTER R12]]
+        model = 1721
+        console = 2112
+        aux = 2512
+        cnfg = configs\R12.cfg
+        wic0/0 = WIC-1ENET
+        wic0/1 = WIC-1ENET
+        e0 = R11 e0
+        e1 = R13 e1
+        f0 = R4 f0
+        x = 25.0
+        y = -46.0
+        z = 1.0
+    [[ROUTER R13]]
+        model = 1721
+        console = 2113
+        aux = 2513
+        cnfg = configs\R13.cfg
+        wic0/0 = WIC-1ENET
+        wic0/1 = WIC-1ENET
+        e0 = R11 e1
+        e1 = R12 e1
+        f0 = R10 f0
+        x = -98.0
+        y = 8.0
+        z = 1.0
+    [[ROUTER R10]]
+        model = 1710
+        console = 2110
+        aux = 2510
+        cnfg = configs\R10.cfg
+        e0 = R7 e0
+        f0 = R13 f0
+        x = -132.0
+        y = 116.0
+        z = 1.0
+    [[ROUTER R9]]
+        model = 1710
+        console = 2109
+        aux = 2509
+        cnfg = configs\R9.cfg
+        e0 = NIO_udp:30000:127.0.0.1:20000
+        f0 = R7 f0
+        x = -269.0
+        y = 321.0
+        z = 1.0
+[GNS3-DATA]
+    configs = configs
+    [[Cloud C2]]
+        symbol = Host
+        x = 297.5
+        y = -83.5
+        z = 1.0
+        connections = R4:e0:NIO_udp:30001:127.0.0.1:20001
+    [[Cloud C1]]
+        symbol = Host
+        x = -380.5
+        y = 386.5
+        z = 1.0
+        connections = R9:e0:NIO_udp:30000:127.0.0.1:20000
