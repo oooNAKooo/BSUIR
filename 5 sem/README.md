@@ -7,7 +7,7 @@
 
 - &ensp;[КиДСВТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Контроль и диагностика средств вычислительной техники);
 
-- &ensp;[ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей);
+- &ensp;[ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей)/(C++);
 
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника).
 ##
@@ -19,7 +19,7 @@
 
 - &ensp;[KiDSVT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Control and Diagnostics of Computers);
 
-- &ensp;[OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks);
+- &ensp;[OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks)/(C++);
 
 - &ensp;[ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering).
 ##
