@@ -31,7 +31,7 @@
 
 - &ensp;[КиДСВТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Контроль и диагностика средств вычислительной техники);
 
-- &ensp;[ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей);
+- &ensp;[ОКС](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Основы компьтерных сетей)/(C++);
 
 - &ensp;[СхемТ](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Схемотехника).
 
@@ -40,9 +40,7 @@
 
 - &ensp;[СА](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SA) (Системный анализ);
 
-- &ensp;[ОБиПвСИТ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/OBiPvSIT) (Основы бизнеса и права в сфере инфокоммуникационных технологиях);
-
-- &ensp;[АКС](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS) (Администрирование компьютерных сетей);
+- &ensp;[АКС](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS) (Администрирование компьютерных сетей)/(Cisco_Packet_Tracer/GNS3);
 
 - &ensp;[СиФОВМ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Структурная и функциональная организация вычеслительных машин);
 
@@ -86,7 +84,7 @@
 
 - &ensp;[KiDSVT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/KiDSVT) (Control and Diagnostics of Computers);
 
-- &ensp;[OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks);
+- &ensp;[OKS](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/OKS) (Fundamentals of Computer Networks)/(C++);
 
 - &ensp;[ShemT](https://github.com/oooNAKooo/BSUIR/tree/main/5%20sem/ShemT) (Circuit Engineering).
 
@@ -95,9 +93,7 @@
 
 - &ensp;[SА](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SA) (System analysis);
 
-- &ensp;[OBiPvSIT](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/OBiPvSIT) (Fundamentals of business and law in the field of information and communication technologies);
-
-- &ensp;[АКS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS) (Computer network administration);
+- &ensp;[АКS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS) (Computer network administration)/(Cisco_Packet_Tracer/GNS3);
 
 - &ensp;[SiFOVM](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Structural and functional organization of computers);
 
