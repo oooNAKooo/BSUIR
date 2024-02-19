@@ -2,7 +2,7 @@
 
 [Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD/lab_1). Создание ER-диаграммы. Статус - присутствует.
 
-[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD/lab_2). Создание реляционной схемы данных. Статус - отсутствует.
+[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD/lab_2). Создание реляционной схемы данных. Статус - присутствует.
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD/lab_3). Реализация SQL-запросов для создания схемы базы данных и запросов на модификацию данных. Статус - отсутствует.
 
