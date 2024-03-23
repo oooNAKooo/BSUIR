@@ -1,0 +1,72 @@
+-- MAX+plus II Compiler Fit File      
+-- Version 10.0 9/14/2000             
+-- Compiled: 02/19/2024 20:53:54      
+
+-- Copyright (C) 1988-2000 Altera Corporation
+-- Any megafunction design, and related net list (encrypted or decrypted),
+-- support information, device programming or simulation file, and any other
+-- associated documentation or information provided by Altera or a partner
+-- under Altera's Megafunction Partnership Program may be used only to
+-- program PLD devices (but not masked PLD devices) from Altera.  Any other
+-- use of such megafunction design, net list, support information, device
+-- programming or simulation file, or any other related documentation or
+-- information is prohibited for any other purpose, including, but not
+-- limited to modification, reverse engineering, de-compiling, or use with
+-- any other silicon devices, unless such use is explicitly licensed under
+-- a separate agreement with Altera or a megafunction partner.  Title to
+-- the intellectual property, including patents, copyrights, trademarks,
+-- trade secrets, or maskworks, embodied in any such megafunction design,
+-- net list, support information, device programming or simulation file, or
+-- any other related documentation or information provided by Altera or a
+-- megafunction partner, remains with Altera, the megafunction partner, or
+-- their respective licensors.  No other licenses, including any licenses
+-- needed under any third party's intellectual property, are provided herein.
+
+CHIP "lab12"
+BEGIN
+
+    DEVICE = "EPF10K30ETC144-1";
+
+    "A2"                           : INPUT_PIN  = 56     ;
+    "A3"                           : INPUT_PIN  = 54     ;
+    "A4"                           : INPUT_PIN  = 124    ;
+    "A5"                           : INPUT_PIN  = 55     ;
+    "A6"                           : INPUT_PIN  = 125    ;
+    "A7"                           : INPUT_PIN  = 126    ;
+    "Y1"                           : OUTPUT_PIN = 79     ;
+    "Y2"                           : OUTPUT_PIN = 81     ;
+    "Y3"                           : OUTPUT_PIN = 99     ;
+    "Y4"                           : OUTPUT_PIN = 80     ;
+    "Y5"                           : OUTPUT_PIN = 82     ;
+    "Y6"                           : OUTPUT_PIN = 78     ;
+    "Y2~1"                         : LOCATION   = LC2_F9 ;
+    "Y3~1"                         : LOCATION   = LC3_B3 ;
+    ":2"                           : LOCATION   = LC6_F9 ;
+    ":16"                          : LOCATION   = LC4_F9 ;
+    ":18"                          : LOCATION   = LC1_F9 ;
+    ":19"                          : LOCATION   = LC8_F9 ;
+
+END;
+
+INTERNAL_INFO "lab12"
+BEGIN
+	DEVICE = EPF10K30ETC144-1;
+    OD3P56  : LORAX = "1:FB3|2:FH3R5,PA8R5C8->LC2_F9,->LC6_F9||";
+    OD2P54  : LORAX = "1:FB2|2:FH2R1,PA6R1C2->LC3_B3||";
+    OD1P124 : LORAX = "1:FB1|2:FH1R5,PA12R5C8->LC6_F9,->LC4_F9||";
+    OD5P55  : LORAX = "1:FB5|2:CH1R5,PA10R5C8->LC4_F9,->LC1_F9||";
+    OD4P125 : LORAX = "1:FB4|2:CH0R5,PA13R5C8->LC1_F9,->LC8_F9||";
+    OD0P126 : LORAX = "1:FB0|2:FH0R5,PA7R5C8->LC4_F9,->LC8_F9||";
+    LC2_F9  : LORAX = "1:MSW1R5C8,HHL9R5->OH9R5P81|";
+    LC3_B3  : LORAX = "1:MSW2R1C3,HHL8R1->OH10R1P99|";
+    LC6_F9  : LORAX = "1:MSW5R5C9,G83R5->OH13R5P79|";
+    LC4_F9  : LORAX = "1:MSW3R5C9,HHL26R5->OH11R5P80|";
+    LC1_F9  : LORAX = "1:MSW0R5C8,HHL1R5->OH8R5P82|";
+    LC8_F9  : LORAX = "1:MSW7R5C8,HHL53R5->OH15R5P78|";
+	LC2_F9  : LORAX2 = "X, X, X, OD3P56";
+	LC3_B3  : LORAX2 = "X, X, X, OD2P54";
+	LC6_F9  : LORAX2 = "X, X, OD3P56, OD1P124";
+	LC4_F9  : LORAX2 = "X, OD5P55, OD0P126, OD1P124";
+	LC1_F9  : LORAX2 = "X, X, OD5P55, OD4P125";
+	LC8_F9  : LORAX2 = "X, X, OD0P126, OD4P125";
+END;

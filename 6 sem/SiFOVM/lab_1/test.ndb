@@ -1,0 +1,83 @@
+NDB006
+The number of symbol table entries is: 3
+The length of the symbol table is: 35
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|lab111:16|
+:	|dc38:15|
+
+The number of name info structs is : 69
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	Ky'5	!	7	:	;	<	=	>	@	A	:12	"A
+#	Ky'5	!	7	:	;	<	=	>	@	A	:13	"@
+$	Ky'5	!	7	:	;	<	=	>	@	A	:14	"?
+%	Ky&|	!	2	d	"	A1	n
+&	Ky&|	!	2	e	#	A2	o
+'	Ky&|	!	2	e	#	A3	p
+(	IGdp	!	A4	q
+)	Ky&|	!	3	f	c	#	A5	r
+*	Ky&|	!	2	f	c	A6	s
++	IGdq	!	B1	z
+,	IGdq	!	B2	""
+-	IGdq	!	B3	"!
+.	IGdq	!	B4	~
+/	IGdq	!	B5	}
+0	IGdq	!	B6	|
+1	IGdq	!	B7	{
+2	(@>U^	!	3	"	#	$	TI	m
+3	Ky&|	!	1	e	X1	t
+4	Ky&|	!	2	d	"	X2	u
+5	Ky&|	!	1	d	X3	v
+6	Ky&|	!	2	f	c	X4	w
+7	Ky&|	!	3	f	c	#	X5	x
+8	Ky&|	!	2	d	$	X6	y
+9	IGdW	:	:1	"z
+:	L)p?	:	D	1	+	:15	"}
+;	L)p?	:	E	1	,	:16	#&
+<	L)p?	:	F	1	-	:17	#%
+=	L)p?	:	G	1	.	:18	#$
+>	L)p?	:	H	1	/	:19	##
+?	IGdW	:	:2	"{
+@	L)p?	:	I	1	0	:20	#"
+A	L)p?	:	J	1	1	:21	#!
+B	IVOQ	:	K	:22	"~
+C	IGdW	:	:3	"|
+D	INv_	:	:	A1	"}
+E	INv_	:	;	A2	#&
+F	INv_	:	<	A3	#%
+G	INv_	:	=	A4	#$
+H	INv_	:	>	A5	##
+I	INv_	:	@	A6	#"
+J	INv_	:	A	A7	#!
+K	INu}	:	B	A8	"~
+L	IGdW	.	:10	"X
+M	IVOQ	.	^	:11	"c
+N	IGdW	.	:13	"[
+O	IGdW	.	:14	"Z
+P	IGdW	.	:15	"Y
+Q	IGdW	.	:16	"d
+R	IGdW	.	:17	"e
+S	IGdW	.	:18	"f
+T	IGdW	.	:19	"b
+U	IVOQ	.	_	:20	"g
+V	IGdW	.	:3	"_
+W	IGdW	.	:4	"^
+X	IGdW	.	:5	"\
+Y	IGdW	.	:6	"]
+Z	IVOQ	.	\	:7	"`
+[	IGdW	.	:9	"a
+\	INu}	.	Z	D1	"`
+]	IM}Q	.	f	D1~1	#s
+^	INu}	.	M	D2	"c
+_	INu}	.	U	D3	"g
+`	IM}Q	.	c	D3~1	#g
+a	IM}Q	.	d	D3~2	#l
+b	IM}Q	.	e	D3~3	#p
+c	L(w1	.	`	1	$	~20~1	#g
+d	L(w1	.	a	1	$	~20~2	#l
+e	L(w1	.	b	1	$	~20~3	#p
+f	L(w1	.	]	1	"	~7~1	#s
