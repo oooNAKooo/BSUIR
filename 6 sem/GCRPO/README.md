@@ -2,7 +2,7 @@
 
 ## RU:
 
-Сам проект назвается [Brain-Сrush]([https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU](https://github.com/oooNAKooo/Brain-Crush)). 
+Сам проект назвается [Brain-Сrush](https://github.com/oooNAKooo/Brain-Crush). 
 
 Найти его можете, перейдя по ссылке сверху.
 
@@ -11,7 +11,7 @@
 ##
 ## EN:
 
-The project itself is called [Brain-Crush]([https://github.com/oooNAKooo/BSUIR/tree/main/3%20sem/PNaYaVU](https://github.com/oooNAKooo/Brain-Crush)).
+The project itself is called [Brain-Crush](https://github.com/oooNAKooo/Brain-Crush).
 
 You can find it by following the link above.
 
