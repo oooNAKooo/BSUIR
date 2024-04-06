@@ -42,7 +42,7 @@
 
 - &ensp;[БД](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD) (Базы данных)/(PostgreSQL);
 
-- &ensp;[ЦОСиИ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Цифровая обработка сигналов и изображений);
+- &ensp;[ЦОСиИ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Цифровая обработка сигналов и изображений)/(Python);
   
 - &ensp;[ЖЦРПО](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO) (Жизненный цикл разработки программного обеспечения)/(Python);
 
@@ -50,7 +50,7 @@
 
 - &ensp;[ССПОиРС](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Сетевое и системное программное обеспечение и распределение сетей)/(Python);
 
-- &ensp;[СиФОВМ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Структурная и функциональная организация вычеслительных машин).
+- &ensp;[СиФОВМ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Структурная и функциональная организация вычеслительных машин)/(MAX+plus II).
 
 
 ##
@@ -95,7 +95,7 @@
 
 - &ensp;[BD](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD) (Database)/(PostgreSQL);
 
-- &ensp;[COSiI](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Digital signal and image processing);
+- &ensp;[COSiI](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Digital signal and image processing)/(Python);
 
 - &ensp;[GCRPO](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO) (Software Development Life Cycle)/(Python);
 
@@ -103,6 +103,6 @@
 
 - &ensp;[SSPOiRS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Network and system software and network distribution)/(Python);
 
-- &ensp;[SiFOVM](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Structural and functional organization of computers).
+- &ensp;[SiFOVM](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Structural and functional organization of computers)/(MAX+plus II).
 ##
 
