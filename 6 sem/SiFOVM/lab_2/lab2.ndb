@@ -1,0 +1,95 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 63
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|lab21:18|
+9	|lab21:18|OR5:65|
+K	|lab22:22|
+V	|dc38:23|
+
+The number of name info structs is : 79
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	Ky'5	!	8	7	8	9	:	J	;	=	O	:2	"L
+#	Ky'5	!	8	7	8	9	:	J	;	=	O	:3	"N
+$	Ky'5	!	8	7	8	9	:	J	;	=	O	:4	"M
+%	Ky&|	!	1	O	A	r
+&	IGdq	!	A1	t
+'	IGdq	!	A2	u
+(	IGdq	!	A3	v
+)	IGdq	!	A4	w
+*	IGdq	!	A5	x
++	IGdq	!	A6	y
+,	(@>U^	!	3	"	#	$	TI	m
+-	Ky&|	!	1	^	X1	n
+.	Ky&|	!	5	Y	c	g	p	#	X2	o
+/	Ky&|	!	2	Y	p	X3	p
+0	Ky&|	!	2	Z	e	X4	q
+1	IGdq	!	Y1	}
+2	IGdq	!	Y2	|
+3	IGdq	!	Y3	s
+4	IGdq	!	Y4	{
+5	IGdq	!	Y5	z
+6	IGdW	V	:1	#Y
+7	L)p?	V	A	1	&	:15	#\
+8	L)p?	V	B	5	'	Y	g	p	#	:16	#c
+9	L)p?	V	C	3	(	i	"	:17	#b
+:	L)p?	V	D	5	)	Y	c	p	#	:18	#a
+;	L)p?	V	E	3	Z	g	5	:19	#`
+<	IGdW	V	:2	#Z
+=	L)p?	V	G	3	+	Z	e	:20	#_
+>	IVOQ	V	H	:21	#^
+?	IVOQ	V	I	:22	#]
+@	IGdW	V	:3	#[
+A	INv_	V	7	A1	#\
+B	INv_	V	8	A2	#c
+C	INv_	V	9	A3	#b
+D	INv_	V	:	A4	#a
+E	INv_	V	;	A5	#`
+F	IM}Q	V	J	A5~1	$a
+G	INv_	V	=	A6	#_
+H	INu}	V	>	A7	#^
+I	INu}	V	?	A8	#]
+J	L(w1	V	F	1	*	~19~1	$a
+K	IVOQ	.	S	:53	"k
+L	IGdW	.	:54	"l
+M	IVOQ	.	U	:56	"p
+N	IGdW	.	:57	"o
+O	Ky'E	.	3	^	e	$	:59	"n
+P	IGdW	.	:60	"m
+Q	IGdW	.	:61	"q
+R	IGdW	.	:62	"r
+S	INu}	.	K	D1	"k
+T	IM}Q	.	Z	D1~1	$J
+U	INu}	.	M	D2	"p
+V	IVOQ	9	W	:1	#"
+W	INu}	9	V	OUT	#"
+X	IM}Q	9	Y	OUT~1	$Q
+Y	L(w1	9	X	1	$	~1~1	$Q
+Z	L(w1	.	T	2	"	$	~53~1	$J
+[	IGdW	K	:67	#8
+\	IGdW	K	:68	#:
+]	IGdW	K	:69	#9
+^	L)p?	K	j	1	1	:70	#;
+_	IGdW	K	:71	#>
+`	IGdW	K	:72	#@
+a	IGdW	K	:73	#?
+b	IGdW	K	:75	#A
+c	Ky'E	K	1	e	:76	#C
+d	IGdW	K	:77	#D
+e	L)p?	K	k	1	2	:78	#=
+f	IGdW	K	:80	#B
+g	L)p?	K	l	1	3	:81	#E
+h	IVOQ	K	o	:86	#F
+i	L)p?	K	m	1	4	:87	#<
+j	INv_	K	^	Y1	#;
+k	INv_	K	e	Y2	#=
+l	INv_	K	g	Y3	#E
+m	INv_	K	i	Y4	#<
+n	IM}Q	K	p	Y4~1	$V
+o	INu}	K	h	Y5	#F
+p	L(w1	K	n	2	^	i	~87~1	$V
