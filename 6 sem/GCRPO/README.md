@@ -10,7 +10,7 @@
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO/lab_4). Парное программирование. Статус - присутствует.
 
-[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO/lab_). Технический долг / Устранение долга. Статус - присутствует.
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO/lab_5). Технический долг / Устранение долга. Статус - присутствует.
 
 [Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO/lab_6). Улучшение UX. Статус - присутствует.
 
