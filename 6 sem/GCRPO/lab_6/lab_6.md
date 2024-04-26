@@ -30,47 +30,21 @@
 ## Изменения в UX
 ### Начальный экран
 #### До изменения:
-### Авторизация
-#### До изменения:
-
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/old_start_screen.png)
 #### После изменения:
 ![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/new_start_screen.png)
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%94%D0%9E.png)
+### Шрифт
+#### До изменения:
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/old_font.png)
 #### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
-
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/new_font.png)
+### Ярлык
+#### До изменения:
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/old_label.png)
+#### После изменения:
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/new_label.png)
 ### Главное меню
 #### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%B5%D0%BD%D1%8E%20%D0%94%D0%9E.png)
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/old_main_menu.png)
 #### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%B5%D0%BD%D1%8E%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
-
-### Добавление расходов или доходов
-#### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%B5%D0%BD%D1%8E%20%D0%94%D0%9E.png)
-#### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
-
-### Обмен валют
-#### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B%20%D0%94%D0%9E.png)
-#### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%952.jpg)
-
-### Поиск транзакций
-#### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B%20%D0%94%D0%9E.png)
-#### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
-
-### Просмотр по дате
-#### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D0%BF%D0%BE%20%D0%B4%D0%B0%D1%82%D0%B5%20%D0%94%D0%9E.png)
-#### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D0%BF%D0%BE%20%D0%B4%D0%B0%D1%82%D0%B5%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
-
-### Удаление транзакций по ID
-#### До изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%A3%D0%B4%D0%B0%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%9E.png)
-#### После изменения:
-![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/new_main_menu.png)
