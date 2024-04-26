@@ -28,8 +28,13 @@
 Путем внедрения этих улучшений в UX можно повысить доступность и защиту от ошибок пользователя в приложении "BudgetMaster", что сделает его еще более привлекательным и удобным для широкого круга пользователей.
 
 ## Изменения в UX
+### Начальный экран
+#### До изменения:
 ### Авторизация
 #### До изменения:
+
+#### После изменения:
+![alt-текст](https://github.com/oooNAKooo/BSUIR/blob/main/6%20sem/GCRPO/lab_6/Screens/new_start_screen.png)
 ![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%94%D0%9E.png)
 #### После изменения:
 ![alt-текст](https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Improvements/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.jpg)
