@@ -78,7 +78,7 @@ def handle_commands(client_socket):
 
 
 if name == "main":
-    host = "192.168.178.83"
+    host = "localhost"
     port = 8080
 
     client_socket = connect_to_server(host, port)
