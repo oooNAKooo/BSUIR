@@ -4,6 +4,6 @@
 
 [Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_2). Операции свертки и корреляции. Статус - присутствует.
 
-[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_3). Проектирование цифровых фильтров.Статус - отсутствует.
+[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_3). Проектирование цифровых фильтров.Статус - присутствует.
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_4). Вейвлет-преобразование. Статус - отсутствует.
