@@ -1,0 +1,161 @@
+autostart = False
+version = 0.8.7
+[127.0.0.1:7202]
+    workingdir = C:\Users\1\AppData\Local\Temp
+    udp = 10201
+    [[2621]]
+        image = C:\Users\1\Desktop\GNS3\c2600-is-mz.122-15.T17.bin
+        idlepc = 0x804e0130
+        ghostios = True
+        chassis = 2621
+    [[ROUTER R4]]
+        model = 2621
+        console = 2109
+        aux = 2509
+        cnfg = configs\R4.cfg
+        f0/0 = R5 f0/0
+        f0/1 = R3 f0/1
+        x = -529.0
+        y = -210.0
+        z = 1.0
+    [[ROUTER R5]]
+        model = 2621
+        console = 2110
+        aux = 2510
+        cnfg = configs\R5.cfg
+        f0/0 = R4 f0/0
+        f0/1 = R2 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = R8 f1/0
+        x = -462.0
+        y = 40.0
+        z = 1.0
+        hx = 21.5
+        hy = -21.0
+    [[ROUTER R6]]
+        model = 2621
+        console = 2111
+        aux = 2511
+        cnfg = configs\R6.cfg
+        f0/0 = R7 f0/0
+        x = 521.0
+        y = 216.0
+        z = 1.0
+    [[ROUTER R7]]
+        model = 2621
+        console = 2104
+        aux = 2504
+        cnfg = configs\R7.cfg
+        f0/0 = R6 f0/0
+        f0/1 = R1 f1/0
+        x = 275.0
+        y = 118.0
+        z = 1.0
+    [[ROUTER R1]]
+        model = 2621
+        console = 2106
+        aux = 2506
+        cnfg = configs\R1.cfg
+        f0/0 = R2 f0/0
+        f0/1 = R8 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = R7 f0/1
+        x = 91.0
+        y = 37.0
+        z = 1.0
+    [[ROUTER R2]]
+        model = 2621
+        console = 2107
+        aux = 2507
+        cnfg = configs\R2.cfg
+        f0/0 = R1 f0/0
+        f0/1 = R5 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = R3 f0/0
+        x = -178.0
+        y = 156.0
+        z = 1.0
+    [[ROUTER R3]]
+        model = 2621
+        console = 2108
+        aux = 2508
+        cnfg = configs\R3.cfg
+        f0/0 = R2 f1/0
+        f0/1 = R4 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = R8 f0/0
+        x = -203.0
+        y = -248.0
+        z = 1.0
+    [[ROUTER R8]]
+        model = 2621
+        console = 2105
+        aux = 2505
+        cnfg = configs\R8.cfg
+        f0/0 = R3 f1/0
+        f0/1 = R1 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = R5 f1/0
+        x = 13.0
+        y = -174.0
+        z = 1.0
+[GNS3-DATA]
+    configs = configs
+    m11 = 0.707106781187
+    m22 = 0.707106781187
+    [[NOTE 1]]
+        text = "FD00:1111:222B:7::/64"
+        x = -437.0
+        y = 149.0
+    [[NOTE 2]]
+        text = "FD00:1111:222B:3::/64"
+        x = -330.0
+        y = -159.0
+    [[NOTE 3]]
+        text = "FD00:1111:222B:2::/64"
+        x = -45.0
+        y = 132.0
+    [[NOTE 4]]
+        text = "FD00:1111:222B:5::/64"
+        x = -644.0
+        y = -61.0
+    [[NOTE 5]]
+        text = "FD00:1111:222B:6::/64"
+        x = -423.0
+        y = -245.0
+    [[NOTE 6]]
+        text = "interface Loopback0\n ipv6 address 2002:7FD1::1/64"
+        x = -672.0
+        y = -274.0
+    [[NOTE 7]]
+        text = "interface Loopback0\n ipv6 address 2002:7FD2::2/64"
+        x = 413.0
+        y = 282.0
+    [[NOTE 8]]
+        text = "FD00:1111:222B:10::/64"
+        x = -387.0
+        y = -52.0
+    [[NOTE 9]]
+        text = "FD00:1111:222B:8::/64"
+        x = 386.0
+        y = 132.0
+    [[NOTE 10]]
+        text = "Подсеть организации FD00:1111:222B/64\nБлок Белорусских адресов 2002:7FD/15"
+        x = 179.0
+        y = -280.0
+    [[NOTE 11]]
+        text = "FD00:1111:222B:9::/64"
+        x = 106.0
+        y = -71.0
+    [[NOTE 12]]
+        text = "FD00:1111:222B:4::/64"
+        x = -108.0
+        y = -242.0
+    [[NOTE 13]]
+        text = "Tunnel 12::2/64\n5.0.0.2/10"
+        x = 296.0
+        y = 62.0
+    [[NOTE 14]]
+        text = "Tunnel 12::1/64\n5.0.0.1/10"
+        x = 160.0
+        y = 11.0
