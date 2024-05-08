@@ -6,6 +6,6 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS/lab_3). Статическая маршутизация сетей. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS/lab_4). Динамическая маршутизация сетей. Статус - отсутствует.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS/lab_4). Динамическая маршутизация сетей. Статус - присутствует.
 
-[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS/lab_5). IPv6. Статус - отсутствует.
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/AKS/lab_5). IPv6. Статус - присутствует.
