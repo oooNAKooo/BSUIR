@@ -6,4 +6,4 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_3). Проектирование цифровых фильтров.Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_4). Вейвлет-преобразование. Статус - отсутствует.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI/lab_4). Вейвлет-преобразование. Статус - присутствует.
