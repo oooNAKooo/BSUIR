@@ -52,7 +52,12 @@
 
 - &ensp;[СиФОВМ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Структурная и функциональная организация вычеслительных машин)/(MAX+plus II).
 
+##
+## [7 семестр:](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem)
 
+- &ensp;[БД](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD) (Базы данных)/(PostgreSQL);
+
+- В процессе...
 ##
 ## EN:
 
@@ -104,5 +109,10 @@
 - &ensp;[SSPOiRS](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SSPOiRS) (Network and system software and network distribution)/(Python);
 
 - &ensp;[SiFOVM](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/SiFOVM) (Structural and functional organization of computers)/(MAX+plus II).
-##
 
+##
+## [7 semester:](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem)
+
+- &ensp;[BD](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD) (Database)/(PostgreSQL);
+
+- In process...
