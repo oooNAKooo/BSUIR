@@ -14,9 +14,9 @@
 - &ensp;[МПСиС](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS) (Микропроцессорные средства и системы);
 
 - &ensp;[ОбКС](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ObKS) (Оборудование компьютерных сетей);
-- 
+  
 - &ensp;[ССПОиРС](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/SSPOiRS) (Сетевое и системное программное обеспечение и распределение сетей);
-- 
+  
 - &ensp;[ЗИвИС](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS) (Защита информации в информационных системах).
   
 ##
@@ -35,8 +35,8 @@
 - &ensp;[MPSiS](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS) (Microprocessor tools and systems);
 
 - &ensp;[ObKS](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ObKS) (Computer network equipment);
-- 
+  
 - &ensp;[SSPOiRS](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/SSPOiRS) (Network and system software and network distribution);
-- 
+  
 - &ensp;[ZIvIS](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS) (Information protection in information systems).
 ##
