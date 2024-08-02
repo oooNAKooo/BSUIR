@@ -5,7 +5,7 @@
 
 - &ensp;[БД](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/BD) (Базы данных)/(PostgreSQL);
 
-- &ensp;[ЦОСиИ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Цифровая обработка сигналов и изображений/(Python));
+- &ensp;[ЦОСиИ](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/COSiI) (Цифровая обработка сигналов и изображений)/(Python);
   
 - &ensp;[ЖЦРПО](https://github.com/oooNAKooo/BSUIR/tree/main/6%20sem/GCRPO) (Жизненный цикл разработки программного обеспечения)/(Python);
 
