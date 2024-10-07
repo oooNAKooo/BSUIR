@@ -1,62 +1,50 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
-use IEEE.NUMERIC_STD.ALL;
 
-entity Multiplexer16x1_tb is
-end Multiplexer16x1_tb;
+entity Multiplexer16x1 is
+    Port ( A : in STD_LOGIC_VECTOR (3 downto 0);  -- Входы выбора
+           D : out STD_LOGIC_VECTOR (15 downto 0); -- Входы данных
+           Y : out STD_LOGIC);                    -- Выход
+end Multiplexer16x1;
 
-architecture Behavioral of Multiplexer16x1_tb is
-
-    signal A : STD_LOGIC_VECTOR(3 downto 0);    -- Входы выбора
-    signal D : STD_LOGIC_VECTOR(15 downto 0);   -- Входы данных
-    signal Y : STD_LOGIC;                       -- Выход
-
-    component Multiplexer16x1
-        Port ( A : in STD_LOGIC_VECTOR(3 downto 0);
-               D : out STD_LOGIC_VECTOR(15 downto 0);
-               Y : out STD_LOGIC);
-    end component;
-
+architecture Behavioral of Multiplexer16x1 is
 begin
-
-    UUT: Multiplexer16x1 port map (A => A, D => D, Y => Y);
-
-    process
+    process(A)
     begin
-        A <= "0000";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;                             -- Ожидание 5 наносекунд
-        
-        A <= "0001";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "0010";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;                             -- Ожидание 5 наносекунд
-
-        A <= "0011";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "0100";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "0101";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "0110";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "0111";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-
-        A <= "1000";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;  
-  
-        A <= "1001";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns; 
-
-        A <= "1111";  -- Вход D0 = 1, остальные нули
-        wait for 10 ns;               
-
-        wait;
+        case A is
+            when "0000" => D <= "0000000000000001";  -- E0
+            Y <= '0';
+            when "0001" => D <= "0000000000000010";  -- E1
+            Y <= '1';
+            when "0010" => D <= "0000000000000100";  -- E2
+            Y <= '1';
+            when "0011" => D <= "0000000000001000";  -- E3
+            Y <= '1';
+            when "0100" => D <= "0000000000010000";  -- E4
+            Y <= '1';
+            when "0101" => D <= "0000000000100000";  -- E5
+            Y <= '1';
+            when "0110" => D <= "0000000001000000";  -- E6
+            Y <= '1';
+            when "0111" => D <= "0000000010000000";  -- E7
+            Y <= '1';
+            when "1000" => D <= "0000000100000000";  -- E8
+            Y <= '1';
+            when "1001" => D <= "0000001000000000";  -- E9
+            Y <= '1';
+            when "1010" => D <= "0000010000000000"; -- E10
+            Y <= '1';
+            when "1011" => D <= "0000100000000000"; -- E11
+            Y <= '1';
+            when "1100" => D <= "0001000000000000"; -- E12
+            Y <= '1';
+            when "1101" => D <= "0010000000000000"; -- E13
+            Y <= '1';
+            when "1110" => D <= "0100000000000000"; -- E14
+            Y <= '1';
+            when "1111" => D <= "1000000000000000"; -- E15
+            Y <= '1';
+            when others => D <= "0000000000000000";
+        end case;
     end process;
-
 end Behavioral;
