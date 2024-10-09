@@ -4,9 +4,9 @@
 
 [Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_2). Прерывания. Таймеры. Статус - присутствует.
 
-[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_3). 3. Тактирование. Энергопотребление. Статус - отсутствует.
+[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_3). 3. Тактирование. Энергопотребление. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_4). 4. Компаратор. АЦП. Потенциометр. Сенсоры. Статус - отсутствует.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_4). 4. Компаратор. АЦП. Потенциометр. Сенсоры. Статус - присутствует.
 
 [Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_5). 5. SPI. ЖКИ. Акселерометр. Статус - отсутствует.
 
