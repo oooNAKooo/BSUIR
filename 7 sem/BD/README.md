@@ -1,3 +1,5 @@
 # Список лабораторных работ по дисциплине "Базы данных":
 
-[Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD/lab_1). Статус - неизвестно.
+[Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD/lab_1). Создание ER-диаграммы. Статус - присутствует.
+
+[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD/lab_2). Создание приложения для базы данных. Статус - присутствует.
