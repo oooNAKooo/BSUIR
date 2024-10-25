@@ -2,9 +2,8 @@
 
 [Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_1). Проектирование комбинационных устройств на языке VHDL в среде WebPACK. Статус - присутствует.
 
-[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_2). Проектирование функциональных узлов
-последовательного типа на языке VHDL в среде WebPACK. Статус - отсутствует.
+[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_2). Проектирование функциональных узлов последовательного типа на языке VHDL в среде WebPACK. Статус - присутствует.
 
-[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_3). Разработка тестовых модулей на языке VHDL в среде WebPACK Статус - отсутствует.
+[Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_3). Разработка тестовых модулей на языке VHDL в среде WebPACK Статус - присутствует.
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_4). Разработка и реализация устройств на базе макетной платы SET-StarterKit. Статус - отсутствует.
