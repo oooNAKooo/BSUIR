@@ -8,7 +8,7 @@
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_4). 4. Компаратор. АЦП. Потенциометр. Сенсоры. Статус - присутствует.
 
-[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_5). 5. SPI. ЖКИ. Акселерометр. Статус - отсутствует.
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_5). 5. SPI. ЖКИ. Акселерометр. Статус - присутствует.
 
 [Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_6). 6. Память, ПДП, SD-карта. Статус - отсутствует.
 
