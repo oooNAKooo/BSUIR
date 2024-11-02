@@ -2,7 +2,7 @@
 
 [Лабораторная работа №1](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_1). Знакомство со средой моделирования Cisco Packet Tracer. Статус - присутствует.
 
-[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_2). Статус - отсутстввует.
+[Лабораторная работа №2](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_2). Организация парольной защиты CISCO устройств. Статус - присутствует.
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_3). Статус - отсутстввует.
 
