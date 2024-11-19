@@ -57,7 +57,7 @@
 
 - &ensp;[АПЦУ](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU) (Автоматизация проектирования цифровых устройств)/(VHDL);
 
-- &ensp;[АПиТCUDA](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA) (Архитектура процессоров и технология CUDA)(C++);
+- &ensp;[АПиТCUDA](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA) (Архитектура процессоров и технология CUDA)/(C++);
 
 - &ensp;[БД](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/BD) (Базы данных)/(PostgreSQL);
   
