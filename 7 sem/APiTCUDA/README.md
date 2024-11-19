@@ -8,4 +8,4 @@
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_4). Усовершенствование CPU и GPU. Статус - присутствует.
 
-[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_5). Фильтрация изображения с использованием CPU и GPU. Статус - неизвестно.
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_5). Фильтрация изображения с использованием CPU и GPU. Статус - присутствует.
