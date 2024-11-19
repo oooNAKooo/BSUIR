@@ -6,4 +6,6 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_3). Реализация CPU и GPU. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_4). Статус - неизвестно.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_4). Реализация CPU и GPU. Статус - присутствует.
+
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APiTCUDA/lab_5). Статус - неизвестно.
