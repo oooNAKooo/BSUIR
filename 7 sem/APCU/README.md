@@ -6,4 +6,4 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_3). Разработка тестовых модулей на языке VHDL в среде WebPACK Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_4). Разработка и реализация устройств на базе макетной платы SET-StarterKit. Статус - отсутствует.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/APCU/lab_4). Разработка и реализация устройств на базе макетной платы SET-StarterKit. Статус - присутствует.
