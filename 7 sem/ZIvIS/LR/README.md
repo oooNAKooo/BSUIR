@@ -6,7 +6,7 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_3). Конфигурирование списков доступа для реализации методов разграничения доступа к ресурсом информационной системы. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_4). Статус - отсутстввует.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_4). Программное средство защищенного обмена файлами. Статус - присутствует.
 
 [Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_5). Статус - отсутстввует.
 
