@@ -6,4 +6,4 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/HiUD/lab_3). Настройка FC SAN и настройка IP SAN. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/HiUD/lab_4). Статус - неизвестно.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/HiUD/lab_4). Обеспечение непрерывности бизнеса на основе хоста. Локальные системы защиты. Статус - присутствует.
