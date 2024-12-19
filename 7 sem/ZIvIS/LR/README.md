@@ -8,6 +8,6 @@
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_4). Программное средство защищенного обмена файлами. Статус - присутствует.
 
-[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_5). Rриптографическая защита данных с помощью microsoft cryptoapi. Статус - присутствует.
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_5). Rриптографическая защита данных с помощью Microsoft Сryptoapi. Статус - присутствует.
 
-[Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_6). Создание защищѐнного туннеля для обмена трафиком. Настройка протокола IPSec. Статус - присутствует.
+[Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS/LR/lab_6). Создание защищенного туннеля для обмена трафиком. Настройка протокола IPSec. Статус - присутствует.
