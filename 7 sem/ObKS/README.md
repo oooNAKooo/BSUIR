@@ -7,3 +7,5 @@
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ObKS/lab_3). Настройка беспроводного сегмента. Статус - присутствует.
 
 [Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ObKS/lab_4). Настройка WLC. Статус - присутствует.
+
+[Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ObKS/lab_5). Телефонные линии. Статус - присутствует.
