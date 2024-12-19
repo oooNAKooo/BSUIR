@@ -6,5 +6,5 @@
 
 [Лабораторная работа №3](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/COSiI/lab_3). Выборка элементов на изображнении. Статус - присутствует.
 
-[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/COSiI/lab_4). Статус - неизвестно.
+[Лабораторная работа №4](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/COSiI/lab_4). Нейронная сеть. Статус - присутствует.
 
