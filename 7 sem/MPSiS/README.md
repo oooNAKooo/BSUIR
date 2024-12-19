@@ -10,6 +10,6 @@
 
 [Лабораторная работа №5](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_5). 5. SPI. ЖКИ. Акселерометр. Статус - присутствует.
 
-[Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_6). 6. Память, ПДП, SD-карта. Статус - отсутствует.
+[Лабораторная работа №6](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_6). 6. Память, ПДП, SD-карта. Статус - присутствует.
 
-[Лабораторная работа №7](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_7). 7. Калькулятор. Статус - отсутствует.
+[Лабораторная работа №7](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/MPSiS/lab_7). 7. Калькулятор. Статус - присутствует.
