@@ -146,5 +146,3 @@
   
 - &ensp;[ZIvIS](https://github.com/oooNAKooo/BSUIR/tree/main/7%20sem/ZIvIS) (Information protection in information systems)/(Cisco Packet Tracer).
 ##
-
-- In process...
